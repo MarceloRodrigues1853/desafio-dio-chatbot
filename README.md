@@ -49,10 +49,10 @@ Esses arquivos estão na pasta `inputs/`.
 1. Criação do Hub e Projeto  
    ![hub](prints/criando-hub.PNG)  
 
-   ![projeto](prints/criando-projeto-no-hub.png)
+   ![projeto](prints/criando-projeto-no-hub.PNG)
 
 3. Upload dos arquivos PDF  
-   ![config](prints/configurando-uso-pdf.png)
+   ![config](prints/configurando-uso-pdf.PNG)
 
 4. Criação do índice vetorial  
    ![índice](prints/criando-indice-vetor.PNG)
