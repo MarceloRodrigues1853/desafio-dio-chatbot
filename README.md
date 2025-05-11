@@ -47,24 +47,25 @@ Esses arquivos estão na pasta `inputs/`.
 ### 🔧 Etapas do projeto no Azure AI Studio
 
 1. Criação do Hub e Projeto  
-   ![hub](prints/criando-hub.png)  
+   ![hub](prints/criando-hub.PNG)  
+
    ![projeto](prints/criando-projeto-no-hub.png)
 
-2. Upload dos arquivos PDF  
+3. Upload dos arquivos PDF  
    ![config](prints/configurando-uso-pdf.png)
 
-3. Criação do índice vetorial  
-   ![índice](prints/criando-indice-vetor.png)
+4. Criação do índice vetorial  
+   ![índice](prints/criando-indice-vetor.PNG)
 
-4. Conexão com Azure Cognitive Search  
-   ![conexão](prints/conectando-recurso-search.png)
+5. Conexão com Azure Cognitive Search  
+   ![conexão](prints/conectando-recurso-search.PNG)
 
-5. Implantação dos modelos  
-   ![text-embedding](prints/implementando-modelo-texto.png)  
-   ![modelos](prints/modelos-implementados.png)
+6. Implantação dos modelos  
+   ![text-embedding](prints/implementando-modelo-texto.PNG)  
+   ![modelos](prints/modelos-implementados.PNG)
 
-6. Testando o chatbot no Playground  
-   ![chat](prints/testando-modelo-com-perguntas.png)
+7. Testando o chatbot no Playground  
+   ![chat](prints/testando-modelo-com-perguntas.PNG)
 
 ---
 
